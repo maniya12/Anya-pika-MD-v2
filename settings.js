@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "Maniya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
@@ -11,8 +11,8 @@ global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
 global.packname = "@maniya bot@" // sticker watermark packname //
 global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+actiontitle = '࿙Maniya࿚' // text who displays on the top of welcome and left message //
+global.headerText = "bot maniya" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['94755289855']   // Owner number //
@@ -25,7 +25,7 @@ global.headerText = "Anya by Pika" // text for header of menu //
              global.ownertag = '918811074852'  // Tag number //
              global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
              global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "maniya bot" // Your own watermark //
+             global.waterMark = "𝖒𝖆𝖓𝖎𝖞𝖆 𝖇𝖔𝖙 ©" // Your own watermark //
 
 global.prefa = ['','-']
 
@@ -35,31 +35,31 @@ name17 = "maniya bot"
 name18 = "maniya bot"
 
 //--------Random footer message-----------\\
-footer1 = `maniya bot `
-footer2 = `maniya bot`
+footer1 = `𝖒𝖆𝖓𝖎𝖞𝖆 𝖇𝖔𝖙 © `
+footer2 = `𝖒𝖆𝖓𝖎𝖞𝖆 𝖇𝖔𝖙 ©`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = 'left🏻' 
+nikalmsg2 = 'left.'
 
 //--------Text for document captions--------\\
 global.Menudoccap1 = 'Best friendly Bot for you...'
-global.Menudoccap2 = 'Always available for you Darling....'
+global.Menudoccap2 = 'Always available for you....'
 global.Menudoccap3 = '𝘉𝘦𝘴𝘵 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘣𝘰𝘵 𝘧𝘰𝘳 𝘺𝘰𝘶...'
 global.Menudoccap4 = "Isn't the moon lovely?"
 global.Menudoccap5 = 'Cutest bot ever saw<3'
 
 //--------Random Tag msg--------\\
-tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘢𝘸𝘦𝘴𝘰𝘮𝘦 𝘉𝘰𝘵.' 
+tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 maniya 𝘉𝘰𝘵.' 
 tag2 = '𝘖𝘺𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦!! 𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?😐' 
-tag3 = '𝘈𝘣𝘦𝘺 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘢𝘰 𝘺𝘢𝘢𝘳!😑' 
+tag3 = 'i am online now' 
 tag4 = '𝘞𝘰𝘸 𝘭𝘰𝘰𝘬 𝘢𝘵 𝘵𝘩𝘪𝘴 𝘢𝘥𝘷𝘢𝘯𝘤𝘦 𝘉𝘰𝘵.😚' 
-tag5 = '𝘠𝘢𝘢𝘳 𝘬𝘺𝘢 𝘉𝘰𝘵 𝘩𝘢𝘪❤️' 
-tag6 = '𝘐𝘵𝘯𝘢 𝘮𝘻𝘢 𝘬𝘺𝘶 𝘢𝘢 𝘳𝘩𝘢 𝘩𝘢𝘪...𝘛𝘶𝘯𝘦 𝘩𝘢𝘸𝘢 𝘮𝘦 𝘣𝘩𝘢𝘯𝘨 𝘮𝘪𝘭𝘢𝘺𝘢 𝘩𝘢𝘪!🥵' 
+tag5 = 'i am online now' 
+tag6 = 'i am online now' 
 tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?' 
-tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘖𝘗 𝘉𝘰𝘵!🔥' 
-tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 𝘈𝘯𝘺𝘢❤️🍫' 
-tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
+tag8 = 'i am online now' 
+tag9 = 'i am online now' 
+tag10 = 'i am online now' 
 
 
 global.mess = {
