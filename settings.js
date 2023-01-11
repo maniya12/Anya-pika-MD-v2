@@ -16,7 +16,7 @@ global.headerText = "bot maniya" // text for header of menu //
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['94755289855']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
+             global.vcardowner = ['94755289855']   // vcard owner number //
              global.ownername = "maniya(manishka)"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
